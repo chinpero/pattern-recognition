@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.pth
+.DS_Store
+.env
+.env*
+outputs/
+logs/
+data/
+check_disk.ps1
+check_large.ps1
